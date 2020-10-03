@@ -526,4 +526,10 @@ img {
   border-radius: 22px;
   text-decoration: none;
 }
+
+.button:hover {
+  opacity: 0.5;
+  -webkit-transition: opacity 0.5s ease;
+  transition: opacity 0.5s ease;
+}
 /*# sourceMappingURL=main.css.map */

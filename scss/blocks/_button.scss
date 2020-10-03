@@ -13,4 +13,9 @@
   background-image: linear-gradient(135deg, #33d35e 0%, #2ab6d9 100%);
   border-radius: 22px;
   text-decoration: none;
+
+  &:hover {
+    opacity: 0.5;
+    transition: opacity 0.5s ease;
+  }
 }
