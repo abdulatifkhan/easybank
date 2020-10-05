@@ -8,9 +8,9 @@
   min-width: 163px;
   max-width: 100%;
   white-space: nowrap;
-  color: #ffffff;
-  background-color: #33d35e;
-  background-image: linear-gradient(135deg, #33d35e 0%, #2ab6d9 100%);
+  color: $white-color;
+  background-color: $green-bg;
+  background-image: $gradient-bg;
   border-radius: 22px;
   text-decoration: none;
 
